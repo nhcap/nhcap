@@ -1,4 +1,4 @@
-### nhcap
+#### nhcap
 python undetected_chromedriver 的自动解决hcaptcha
 ### 支持的类型
 |类型         | 支持情况                        | 模型训练                    |  缺点                                         |优点                                     |
