@@ -7,8 +7,9 @@ python undetected_chromedriver 的自动解决hcaptcha
 |图片选择位置  | 需要对应的yolov5模型(仅支持中文)  | 训练需要相对较多的数据集       |需要的训练数据较多，hcaptcha更新未测试，预估(7天) |坚持时间长                                |[demo](https://streamable.com/e/1zj1z7) |
 |选择图片对应动物/物品  | 未支持                  | 未支持                        |需要的训练数据很多，模型只能允许一个大类一个模型  |未测试                                    |未支持|
 
+#### 代码重构:
+将来可能会重构，现在代码很乱并且没有注释
 
-#### 九宫格点选demo:
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://streamable.com/e/bb1wa3)
-#### 图片选择位置demo2(hcaptcha new):
-[![Watch the video](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](https://streamable.com/e/1zj1z7)
+#### 训练自己的模型教程：
+应该会出
+
