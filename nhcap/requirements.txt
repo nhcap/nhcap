@@ -1,0 +1,6 @@
+loguru==0.7.0
+Pillow==10.0.0
+Pillow==10.0.0
+Requests==2.31.0
+selenium==4.11.2
+torch==2.0.1
