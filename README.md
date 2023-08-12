@@ -12,11 +12,11 @@ python undetected_chromedriver 的自动解决hcaptcha
 ```
 pip install -r requriements.txt
 ```
-在你的python中导入nhcap.py
+在你的python脚本中导入nhcap.py
 ```python
 from nhcap import run1
 ```
-打开网页调用
+启动浏览器打开网页然后调用
 ```python
 run1(driver)
 ```
